@@ -1,0 +1,16 @@
+Script started on Sat Dec  2 16:59:52 2017
+Script on a049410[1]% ene[Kvironment 
+Environment [HOST=a049410 PID=1044}: Press [ctrl/d] to start
+Environment [HOST=a049410 PID=1044]: [start] sent to [HOST=a049409 PORT=46981]
+Environment [HOST=a049410 PID=1044]: [start] sent to [HOST=a049411 PORT=51417]
+Environment [HOST=a049410 PID=1044]: [start] sent to [HOST=a049412 PORT=36958]
+Environment [HOST=a049410 PID=1044]: [start] sent to [HOST=a049406 PORT=48812]
+Environment [HOST=a049410 PID=1044]: Press [ctrl/d] to shutdown 
+Environment [HOST=a049410 PID=1044]: [shutdown] sent to [HOST=a049409 PORT=46981]
+Environment [HOST=a049410 PID=1044]: [shutdown] sent to [HOST=a049411 PORT=51417]
+Environment [HOST=a049410 PID=1044]: [shutdown] sent to [HOST=a049412 PORT=36958]
+Environment [HOST=a049410 PID=1044]: [shutdown] sent to [HOST=a049406 PORT=48812]
+Script on a049410[2]% exit
+exit
+
+Script done on Sat Dec  2 17:05:51 2017
